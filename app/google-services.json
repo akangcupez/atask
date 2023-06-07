@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "768511119708",
+    "project_id": "atask-9a63b",
+    "storage_bucket": "atask-9a63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768511119708:android:e995eb4d02215ee6ff3199",
+        "android_client_info": {
+          "package_name": "com.akangcupez.atask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwYHfvB7_SqOEGhIsAe2hg01fMryimpV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Atask</string>
+    <string name="encrypted_file">Encrypted File</string>
+    <string name="database">Database</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="file_system">File System</string>
+    <string name="storage_type">Storage Type</string>
+</resources>
